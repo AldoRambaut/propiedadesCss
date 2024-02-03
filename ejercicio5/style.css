@@ -1,0 +1,9 @@
+#boton {
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#boton:hover {
+    background-color: aqua;
+    outline: none;
+}
